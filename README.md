@@ -1,4 +1,4 @@
 # busreservation
-frontend:jsp,css,js.
-backend:mysql,java.
-server:Tomcat
+#frontend:jsp,css,js.
+#backend:mysql,java.
+#server:Tomcat.
